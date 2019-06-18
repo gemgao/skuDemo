@@ -29,7 +29,7 @@
                     android:layout_height="wrap_content"
                     android:maxLines="2"
                     android:ellipsize="end"
-                    android:text=""
+                    android:text="标题"
                     android:textColor="#2c2c2c"
                     android:textSize="16sp" />
                 <TextView
