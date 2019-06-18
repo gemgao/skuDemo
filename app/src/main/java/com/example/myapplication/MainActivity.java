@@ -39,10 +39,10 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv_shop_price, tv_shop_attr;
     private List<NewCourseDetailBean.DataBean.GoodsBean.GoodsSkuBean> goodsSku;
     private List<NewCourseDetailBean.DataBean.GoodsBean.SpecItemsBean> specItems;
-    private HashMap<Object, Object> map;
+
     private TextView goInput;
     private ArrayList<String> strings;
-
+    private HashMap<Object, Object> map;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
